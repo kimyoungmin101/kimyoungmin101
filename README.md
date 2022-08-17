@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=KimYoungMin&type=wave&color=auto&height=300)
+![header](https://capsule-render.vercel.app/api?text=KimYoungMin&type=wave&color=gradient&height=200)
 
 ## _The Last Markdown Editor, Ever_
 
