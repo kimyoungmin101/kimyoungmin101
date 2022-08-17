@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 ## _The Last Markdown Editor, Ever_
 
