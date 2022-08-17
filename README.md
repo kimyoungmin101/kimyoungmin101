@@ -1,6 +1,4 @@
 # KimYoungMin
 ## _The Last Markdown Editor, Ever_
-[![Solved.ac
-dudals2467](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoungmin101&&show_icons=true&theme=gruvbox)
